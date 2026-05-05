@@ -7,7 +7,7 @@
 | haystack/\_\_init\_\_.py                                                            |       12 |        0 |    100% |           |
 | haystack/components/\_\_init\_\_.py                                                 |        0 |        0 |    100% |           |
 | haystack/components/agents/\_\_init\_\_.py                                          |        5 |        0 |    100% |           |
-| haystack/components/agents/agent.py                                                 |      380 |       12 |     97% |477, 651, 704-705, 707, 853, 927, 1187-1188, 1194, 1229-1231 |
+| haystack/components/agents/agent.py                                                 |      380 |       12 |     97% |462, 636, 689-690, 692, 838, 912, 1172-1173, 1179, 1214-1216 |
 | haystack/components/agents/state/\_\_init\_\_.py                                    |        5 |        0 |    100% |           |
 | haystack/components/agents/state/state.py                                           |       73 |        2 |     97% |    75, 79 |
 | haystack/components/agents/state/state\_utils.py                                    |       18 |        0 |    100% |           |
@@ -57,7 +57,7 @@
 | haystack/components/embedders/backends/\_\_init\_\_.py                              |        0 |        0 |    100% |           |
 | haystack/components/embedders/backends/sentence\_transformers\_backend.py           |       25 |        0 |    100% |           |
 | haystack/components/embedders/backends/sentence\_transformers\_sparse\_backend.py   |       31 |        0 |    100% |           |
-| haystack/components/embedders/hugging\_face\_api\_document\_embedder.py             |      122 |        4 |     97% |174-175, 344, 372 |
+| haystack/components/embedders/hugging\_face\_api\_document\_embedder.py             |      122 |        4 |     97% |174-175, 336, 364 |
 | haystack/components/embedders/hugging\_face\_api\_text\_embedder.py                 |       83 |        4 |     95% |137-138, 252, 254 |
 | haystack/components/embedders/image/\_\_init\_\_.py                                 |        5 |        0 |    100% |           |
 | haystack/components/embedders/image/sentence\_transformers\_doc\_image\_embedder.py |       78 |        1 |     99% |       237 |
