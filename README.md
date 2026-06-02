@@ -82,7 +82,7 @@
 | haystack/components/extractors/\_\_init\_\_.py                                      |        5 |        0 |    100% |           |
 | haystack/components/extractors/image/\_\_init\_\_.py                                |        5 |        0 |    100% |           |
 | haystack/components/extractors/image/llm\_document\_content\_extractor.py           |      105 |        0 |    100% |           |
-| haystack/components/extractors/llm\_metadata\_extractor.py                          |      155 |       21 |     86% |287-298, 307-315, 333-336, 380, 422-426, 437 |
+| haystack/components/extractors/llm\_metadata\_extractor.py                          |      155 |       21 |     86% |290-301, 310-318, 336-339, 383, 425-429, 440 |
 | haystack/components/extractors/named\_entity\_extractor.py                          |      183 |       60 |     67% |24-25, 40, 159-162, 171-178, 197, 203, 262, 275, 378-390, 393-398, 413, 441-449, 453-465, 468-475, 485, 489, 496-503 |
 | haystack/components/extractors/regex\_text\_extractor.py                            |       49 |        0 |    100% |           |
 | haystack/components/fetchers/\_\_init\_\_.py                                        |        5 |        0 |    100% |           |
@@ -261,12 +261,12 @@
 | haystack/utils/jinja2\_chat\_extension.py                                           |      119 |        1 |     99% |       294 |
 | haystack/utils/jinja2\_extensions.py                                                |       47 |        0 |    100% |           |
 | haystack/utils/jupyter.py                                                           |        9 |        3 |     67% |     15-17 |
-| haystack/utils/misc.py                                                              |       92 |       11 |     88% |49-52, 55, 62-63, 66, 123-126 |
+| haystack/utils/misc.py                                                              |       96 |        5 |     95% |52-53, 129-132 |
 | haystack/utils/requests\_utils.py                                                   |       33 |        0 |    100% |           |
 | haystack/utils/type\_serialization.py                                               |      111 |       12 |     89% |62, 64, 174-175, 186-189, 195, 211-214 |
 | haystack/utils/url\_validation.py                                                   |        4 |        0 |    100% |           |
 | haystack/version.py                                                                 |        5 |        2 |     60% |      9-10 |
-| **TOTAL**                                                                           | **17679** | **1221** | **93%** |           |
+| **TOTAL**                                                                           | **17683** | **1215** | **93%** |           |
 
 
 ## Setup coverage badge
