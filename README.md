@@ -88,7 +88,7 @@
 | haystack/components/fetchers/\_\_init\_\_.py                                        |        5 |        0 |    100% |           |
 | haystack/components/fetchers/link\_content.py                                       |      188 |       26 |     86% |160-165, 222-224, 246, 255-262, 292-296, 385-392, 425, 458 |
 | haystack/components/generators/\_\_init\_\_.py                                      |        5 |        0 |    100% |           |
-| haystack/components/generators/azure.py                                             |       48 |        4 |     92% |130, 133, 209, 212 |
+| haystack/components/generators/azure.py                                             |       50 |        4 |     92% |133, 136, 212, 215 |
 | haystack/components/generators/chat/\_\_init\_\_.py                                 |        5 |        0 |    100% |           |
 | haystack/components/generators/chat/azure.py                                        |       68 |        4 |     94% |198, 201, 312, 315 |
 | haystack/components/generators/chat/azure\_responses.py                             |       46 |        2 |     96% |  224, 271 |
@@ -100,11 +100,11 @@
 | haystack/components/generators/chat/openai\_responses.py                            |      318 |       39 |     88% |237, 268, 358, 438, 453, 490, 497-504, 512, 553-562, 578-579, 584, 597-613, 622, 752, 794-795, 808, 851, 873, 892 |
 | haystack/components/generators/chat/types/\_\_init\_\_.py                           |        2 |        0 |    100% |           |
 | haystack/components/generators/chat/types/protocol.py                               |        4 |        0 |    100% |           |
-| haystack/components/generators/hugging\_face\_api.py                                |       86 |        3 |     97% |164-165, 263 |
-| haystack/components/generators/hugging\_face\_local.py                              |       87 |        7 |     92% |128-130, 193, 242-248 |
-| haystack/components/generators/openai.py                                            |       68 |        4 |     94% |149, 215, 217, 243 |
+| haystack/components/generators/hugging\_face\_api.py                                |       88 |        3 |     97% |166-167, 265 |
+| haystack/components/generators/hugging\_face\_local.py                              |       89 |        7 |     92% |130-132, 195, 244-250 |
+| haystack/components/generators/openai.py                                            |       69 |        4 |     94% |154, 220, 222, 248 |
 | haystack/components/generators/openai\_dalle.py                                     |       49 |        0 |    100% |           |
-| haystack/components/generators/utils.py                                             |       85 |        9 |     89% |31, 45, 91, 124-125, 157, 167, 169, 171 |
+| haystack/components/generators/utils.py                                             |       88 |        9 |     90% |41, 55, 101, 134-135, 167, 177, 179, 181 |
 | haystack/components/joiners/\_\_init\_\_.py                                         |        5 |        0 |    100% |           |
 | haystack/components/joiners/answer\_joiner.py                                       |       49 |        2 |     96% |  132, 138 |
 | haystack/components/joiners/branch.py                                               |       20 |        3 |     85% |105, 116-117 |
@@ -178,7 +178,7 @@
 | haystack/core/component/types.py                                                    |       36 |        3 |     92% |     85-87 |
 | haystack/core/errors.py                                                             |       76 |        9 |     88% |60-67, 127, 146, 150, 161, 165, 178, 187 |
 | haystack/core/pipeline/\_\_init\_\_.py                                              |        3 |        0 |    100% |           |
-| haystack/core/pipeline/async\_pipeline.py                                           |      171 |       48 |     72% |91-92, 97, 258-301, 313, 370-376, 389, 394, 411-413, 417-420, 440-453, 463 |
+| haystack/core/pipeline/async\_pipeline.py                                           |      171 |       50 |     71% |91-92, 97, 258-301, 313, 370-376, 388-390, 394, 411-413, 417-420, 440-453, 463 |
 | haystack/core/pipeline/base.py                                                      |      562 |       53 |     91% |124, 240-241, 245, 362, 374, 564, 601-611, 776, 844, 1373, 1539, 1543, 1553-1559, 1576-1638 |
 | haystack/core/pipeline/breakpoint.py                                                |      175 |       14 |     92% |68, 73, 81, 102, 111, 119, 127, 150-155, 226 |
 | haystack/core/pipeline/component\_checks.py                                         |       64 |        0 |    100% |           |
@@ -266,7 +266,7 @@
 | haystack/utils/type\_serialization.py                                               |      111 |       12 |     89% |62, 64, 174-175, 186-189, 195, 211-214 |
 | haystack/utils/url\_validation.py                                                   |        4 |        0 |    100% |           |
 | haystack/version.py                                                                 |        5 |        2 |     60% |      9-10 |
-| **TOTAL**                                                                           | **17683** | **1215** | **93%** |           |
+| **TOTAL**                                                                           | **17693** | **1217** | **93%** |           |
 
 
 ## Setup coverage badge
